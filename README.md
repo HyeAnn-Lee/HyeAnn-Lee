@@ -4,7 +4,7 @@ IDK how to make here beautiful ;(
 
 <div align=center>
   
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/hyeann-lee)](www.linkedin.com/in/hyeann-lee) 
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/hyeann-lee)](https://www.linkedin.com/in/hyeann-lee) 
   [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white&link=https://scholar.google.com/citations?user=uAjDe3MAAAAJ)](https://scholar.google.com/citations?user=uAjDe3MAAAAJ)
 
 <a href="mailto:hyeann@kaist.ac.kr">
